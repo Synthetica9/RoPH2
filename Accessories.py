@@ -145,29 +145,30 @@ class Accessory():
 		else:
 			return 0
 
-ACC={}
-ACC["IronBangle"]=Accessory(HP=0,ENE=0,STR=2,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["SilkSash"]=Accessory(HP=0,ENE=0,STR=0,SPR=2,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["GlassMonocle"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=2,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["HUDImplant"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=2,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["HeelWheels"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=2,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["PredictionImplant"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=2,TGH=0,RES=0,LCK=0)
-ACC["LatticeShieldP"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=2,RES=0,LCK=0)
-ACC["LatticeShieldM"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=2,LCK=0)
-ACC["LuckySash"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=2)
-ACC["ReflectiveCoating"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0-2,TGH=0,RES=0,LCK=0)
-ACC["SnowshoeWebbing"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=3,AGI=3,EVA=3,TGH=0,RES=0,LCK=0)
-ACC["OpalBrooch"]=Accessory(HP=0,ENE=0,STR=3,SPR=3,SKL=3,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["FurHemwork"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=3,RES=3,LCK=3)
-ACC["MuscleShirt"]=Accessory(HP=0,ENE=0,STR=8,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["BloodstoneBrooch"]=Accessory(HP=0,ENE=0,STR=8,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["ExtraFinger"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=8,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["AncientScroll"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=8,AGI=0,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["ExtraToe"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=8,EVA=0,TGH=0,RES=0,LCK=0)
-ACC["MadScientistGoggles"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=8,TGH=0,RES=0,LCK=0)
-ACC["WerewolfFur"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=8,RES=0,LCK=0)
-ACC["MummyWrap"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=8,LCK=0)
-ACC["LuckyCoinNecklace"]=Accessory(HP=0,ENE=0,STR=0,SPR=0,SKL=0,ABL=0,AGI=0,EVA=0,TGH=0,RES=0,LCK=8)
+ACC = {
+	"IronBangle": Accessory(STR=2),
+	"SilkSash": Accessory(SPR=2),
+	"GlassMonocle": Accessory(SKL=2),
+	"HUDImplant": Accessory(ABL=2),
+	"HeelWheels": Accessory(AGI=2),
+	"PredictionImplant": Accessory(EVA=2),
+	"LatticeShieldP": Accessory(TGH=2),
+	"LatticeShieldM": Accessory(RES=2),
+	"LuckySash": Accessory(LCK=2),
+	"ReflectiveCoating": Accessory(EVA=-2),
+	"SnowshoeWebbing": Accessory(ABL=3, AGI=3, EVA=3),
+	"OpalBrooch": Accessory(STR=3, SPR=3, SKL=3),
+	"FurHemwork": Accessory(TGH=3, RES=3, LCK=3),
+	"MuscleShirt": Accessory(STR=8),
+	"BloodstoneBrooch": Accessory(STR=8),
+	"ExtraFinger": Accessory(SKL=8),
+	"AncientScroll": Accessory(ABL=8),
+	"ExtraToe": Accessory(AGI=8),
+	"MadScientistGoggles": Accessory(EVA=8),
+	"WerewolfFur": Accessory(TGH=8),
+	"MummyWrap": Accessory(RES=8),
+	"LuckyCoinNecklace": Accessory(LCK=8),
+}
 
 class Wiggles():
 	def __init__(self,Level=1):
