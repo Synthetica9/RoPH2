@@ -509,7 +509,7 @@ WSD["Higgins"]=Unit("Higgins",3,Earth,Stats="SoulbladeVagabondSB",ArmorSet=(Omni
 
 #GM's Characters
 #Reyn
-WSD["Reyn"]=Unit("Reyn",3,Solar,Stats="WilderKnightWI",ArmorSet=(OmniArmorData["NormalTungstenHead0"],OmniArmorData["NormalTungstenTorso0"],OmniArmorData["NormalTungstenArms0"],OmniArmorData["NormalTungstenLegs0"],OmniArmorData["NormalTungstenFeet0"]),Weapon1=Weapon(OmniWeaponData["StonyTungstenGreatsword0"]),Weapon2=Weapon(OmniWeaponData["NormalTungstenPolearm0"]),Weapon3=Weapon(OmniWeaponData["NormalBronzePolearm3"]),Shield=Shield(OmniArmorData["NormalTungstenMediumShield0"]),Accessory1=ACC["ReflectiveCoating"])
+WSD["Reyn"]=Unit("Reyn",3,Solar,Stats="WilderKnightWI",ArmorSet=(OmniArmorData["NormalTungstenHead0"],OmniArmorData["NormalTungstenTorso0"],OmniArmorData["NormalTungstenArms0"],OmniArmorData["NormalTungstenLegs0"],OmniArmorData["NormalTungstenFeet0"]),Weapon1=Weapon(OmniWeaponData["StonyTungstenGreatsword0"]),Weapon2=Weapon(OmniWeaponData["NormalTungstenPolearm0"]),Weapon3=Weapon(OmniWeaponData["NormalBronzePolearm3"]),Shield=Shield(OmniArmorData["NormalTungstenMediumShield0"]))
 #print(WSD["Reyn"])
 
 #Brad
@@ -535,7 +535,7 @@ WSD["StClips"]=Unit("StClips",2,Earth,Stats="MechanixGunnerMX",ArmorSet=(OmniArm
 #print(WSD["StClips"])
 
 #Helm
-WSD["Helm"]=Unit("Helm",2,Storm,Stats="OriginVagabondOR",ArmorSet=(OmniArmorData["NormalCottonHead0"],OmniArmorData["NormalLeatherTorso0"],OmniArmorData["NormalSilkArms0"],OmniArmorData["NormalSilkLegs0"],OmniArmorData["NormalSilkFeet0"]),Weapon1=Weapon(OmniWeaponData["NormalCopperSaber0"]),Weapon2=Weapon(OmniWeaponData["NormalIvoryHandbow0"]),Weapon3=Weapon(),Shield=(OmniArmorData["NormalCottonSmallShield0"]),Accessory1=ACC["SilkSash"])
+WSD["Helm"]=Unit("Helm",2,Storm,Stats="OriginVagabondOR",ArmorSet=(OmniArmorData["NormalCottonHead0"],OmniArmorData["NormalLeatherTorso0"],OmniArmorData["NormalSilkArms0"],OmniArmorData["NormalSilkLegs0"],OmniArmorData["NormalSilkFeet0"]),Weapon1=Weapon(OmniWeaponData["NormalCopperSaber0"]),Weapon2=Weapon(OmniWeaponData["NormalIvoryHandbow0"]),Weapon3=Weapon(),Shield=(OmniArmorData["NormalCottonSmallShield0"]),Accessory1=ACC["MagicSash"])
 #print(WSD["Helm"])
 
 #Impromptu's Characters
@@ -562,7 +562,7 @@ WSD["Two"]=Unit("Two",2,Earth,Stats="SoulbladeMonkSB",ArmorSet=(OmniArmorData["N
 
 #The Third Witch
 WSD["Three"]=Unit("Three",1,Water,Stats="OriginApostleOR",ArmorSet=(OmniArmorData["NormalCottonHead0"],OmniArmorData["NormalSilkTorso0"],OmniArmorData["NormalBronzeArms0"],OmniArmorData["NormalCottonLegs0"],OmniArmorData["NormalLeatherFeet0"]),Weapon1=Weapon(OmniWeaponData["AttunedIvoryWand10"]),Weapon2=Weapon(),Weapon3=Weapon(),Shield=(OmniArmorData["ReinforcedCottonMediumShield10"]),Accessory1=Wiggles(1))
-print(WSD["Three"])
+#print(WSD["Three"])
 
 #The Fourth Judge
 WSD["Four"]=Unit("Four",7,Lunar,Stats="VampireSummonerVM",ArmorSet=(OmniArmorData["NormalCottonHead0"],OmniArmorData["NormalCottonTorso0"],OmniArmorData["NormalCottonArms0"],OmniArmorData["NormalCottonLegs0"],OmniArmorData["NormalCottonFeet0"]),Weapon1=Weapon(OmniWeaponData["ReinforcedBronzeWhip10"]),Weapon2=Weapon(),Weapon3=Weapon(),Shield=(OmniArmorData["NormalUnobtaniumSmallShield0"]))
@@ -577,7 +577,7 @@ WSD["Six"]=Unit("Six",2,Flame,Stats="WilderKnightWI",ArmorSet=(OmniArmorData["No
 #print(WSD["Six"])
 
 #The Seventh Sage
-WSD["Sev"]=Unit("Sev",1,Earth,Stats="SoulsongMageOR",ArmorSet=(OmniArmorData["NormalUnobtaniumHead0"],OmniArmorData["NormalLeatherTorso10"],OmniArmorData["NormalUnobtaniumArms0"],OmniArmorData["NormalLeatherLegs0"],OmniArmorData["NormalLeatherFeet0"]),Weapon1=Weapon(OmniWeaponData["NormalIvoryWand0"]),Weapon2=Weapon(OmniWeaponData["NormalCobaltKnuckles0"]),Weapon3=(OmniWeaponData["BlazingCopperRod2"]),Shield=(OmniArmorData["NormalUnobtaniumSmallShield0"]),Trait1=StatSoul(1,"STR","TGH"),Accessory1=ACC["IronBangle"],Accessory2=ACC["GlassMonocle"])
+WSD["Sev"]=Unit("Sev",1,Earth,Stats="SoulsongMageOR",ArmorSet=(OmniArmorData["NormalUnobtaniumHead0"],OmniArmorData["NormalLeatherTorso10"],OmniArmorData["NormalUnobtaniumArms0"],OmniArmorData["NormalLeatherLegs0"],OmniArmorData["NormalLeatherFeet0"]),Weapon1=Weapon(OmniWeaponData["NormalIvoryWand0"]),Weapon2=Weapon(OmniWeaponData["NormalCobaltKnuckles0"]),Weapon3=(OmniWeaponData["BlazingCopperRod2"]),Shield=(OmniArmorData["NormalUnobtaniumSmallShield0"]),Trait1=StatSoul(1,"STR","TGH"),Accessory1=ACC["SturdyBangle"],Accessory2=ACC["GlassMonocle"])
 #print(WSD["Sev"])
 
 #The Eleventh Sorceress

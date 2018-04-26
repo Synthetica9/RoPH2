@@ -509,7 +509,7 @@ WSD["Higgins"]=Unit("Higgins",3,Earth,Stats="SoulbladeVagabondSB",ArmorSet=(Omni
 
 #GM's Characters
 #Reyn
-WSD["Reyn"]=Unit("Reyn",3,Solar,Stats="WilderKnightWI",ArmorSet=(OmniArmorData["NormalTungstenHead0"],OmniArmorData["NormalTungstenTorso0"],OmniArmorData["NormalTungstenArms0"],OmniArmorData["NormalTungstenLegs0"],OmniArmorData["NormalTungstenFeet0"]),Weapon1=Weapon(OmniWeaponData["StonyTungstenGreatsword0"]),Weapon2=Weapon(OmniWeaponData["NormalTungstenPolearm0"]),Weapon3=Weapon(OmniWeaponData["NormalBronzePolearm3"]),Shield=Shield(OmniArmorData["NormalTungstenMediumShield0"]),Accessory1=ACC["ReflectiveCoating"])
+WSD["Reyn"]=Unit("Reyn",3,Solar,Stats="WilderKnightWI",ArmorSet=(OmniArmorData["NormalTungstenHead0"],OmniArmorData["NormalTungstenTorso0"],OmniArmorData["NormalTungstenArms0"],OmniArmorData["NormalTungstenLegs0"],OmniArmorData["NormalTungstenFeet0"]),Weapon1=Weapon(OmniWeaponData["StonyTungstenGreatsword0"]),Weapon2=Weapon(OmniWeaponData["NormalTungstenPolearm0"]),Weapon3=Weapon(OmniWeaponData["NormalBronzePolearm3"]),Shield=Shield(OmniArmorData["NormalTungstenMediumShield0"]))
 #print(WSD["Reyn"])
 
 #Brad
