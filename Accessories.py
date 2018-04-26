@@ -220,6 +220,7 @@ ACC = {
 	"MilitaryAttackProgram": Accessory(STR=4,SPR=4,SKL=4,Buy=1200,Sell=600),
 	"MilitaryDefenseProgram": Accessory(EVA=4,TGH=4,RES=4,Buy=1200,Sell=600),
 	"Leveliser": Accessory(LVL=1,Buy=100,Sell=50),
+	"ZoomGoggles": Accessory(Crit=5,Buy=1250,Sell=625),
 }
 
 class Wiggles():
