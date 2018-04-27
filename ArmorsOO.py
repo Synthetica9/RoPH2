@@ -57,35 +57,35 @@ MAT["Magenium"]=ARMMaterial(Name="Magenium",PR=9,MR=18,WT=19,Buy=200,Sell=100,WT
 MAT["Shardiron"]=ARMMaterial(Name="Shardiron",PR=11,MR=11,WT=17,Buy=200,Sell=100,WTClass="Light",OreType="B")
 MAT["Shardsteel"]=ARMMaterial(Name="Shardsteel",PR=18,MR=9,WT=23,Buy=200,Sell=100,WTClass="Light",OreType="P")
 #Tier II, Medium
-MAT["Cazenium"]=ARMMaterial(Name="Cazenium",PR=8,MR=24,WT=26,Buy=300,Sell=150,WTClass="Medium",OreType="M")
-MAT["Iron"]=ARMMaterial(Name="Iron",PR=14,MR=14,WT=24,Buy=300,Sell=150,WTClass="Medium",OreType="B")
-MAT["Steel"]=ARMMaterial(Name="Steel",PR=24,MR=8,WT=30,Buy=300,Sell=150,WTClass="Medium",OreType="P")
+MAT["Cazenium"]=ARMMaterial(Name="Cazenium",PR=8,MR=24,WT=26,Buy=300,Sell=160,WTClass="Medium",OreType="M")
+MAT["Iron"]=ARMMaterial(Name="Iron",PR=14,MR=14,WT=24,Buy=300,Sell=160,WTClass="Medium",OreType="B")
+MAT["Steel"]=ARMMaterial(Name="Steel",PR=24,MR=8,WT=30,Buy=300,Sell=160,WTClass="Medium",OreType="P")
 #Tier II, Heavy
 MAT["Rozenium"]=ARMMaterial(Name="Rozenium",PR=8,MR=30,WT=33,Buy=400,Sell=200,WTClass="Heavy",OreType="M")
 MAT["Heviron"]=ARMMaterial(Name="Heviron",PR=18,MR=18,WT=31,Buy=400,Sell=200,WTClass="Heavy",OreType="B")
 MAT["Hevisteel"]=ARMMaterial(Name="Hevisteel",PR=30,MR=8,WT=37,Buy=400,Sell=200,WTClass="Heavy",OreType="P")
 
 #Tier III, Light
-MAT["Bismuth"]=ARMMaterial(Name="Bismuth",PR=20,MR=40,WT=36,Buy=500,Sell=250,WTClass="Light",OreType="M")
-MAT["Aluminum"]=ARMMaterial(Name="Aluminum",PR=24,MR=24,WT=34,Buy=500,Sell=250,WTClass="Light",OreType="B")
-MAT["Chrome"]=ARMMaterial(Name="Chrome",PR=40,MR=20,WT=38,Buy=500,Sell=250,WTClass="Light",OreType="P")
+MAT["Bismuth"]=ARMMaterial(Name="Bismuth",PR=20,MR=40,WT=36,Buy=500,Sell=260,WTClass="Light",OreType="M")
+MAT["Aluminum"]=ARMMaterial(Name="Aluminum",PR=24,MR=24,WT=34,Buy=500,Sell=260,WTClass="Light",OreType="B")
+MAT["Chrome"]=ARMMaterial(Name="Chrome",PR=40,MR=20,WT=38,Buy=500,Sell=260,WTClass="Light",OreType="P")
 #Tier III, Medium
 MAT["Silver"]=ARMMaterial(Name="Silver",PR=16,MR=48,WT=40,Buy=600,Sell=300,WTClass="Medium",OreType="M")
 MAT["Brass"]=ARMMaterial(Name="Brass",PR=29,MR=29,WT=39,Buy=600,Sell=300,WTClass="Medium",OreType="B")
 MAT["Titanium"]=ARMMaterial(Name="Titanium",PR=48,MR=16,WT=45,Buy=600,Sell=300,WTClass="Medium",OreType="P")
 #Tier III, Heavy
-MAT["Orichalc"]=ARMMaterial(Name="Orichalc",PR=14,MR=54,WT=50,Buy=700,Sell=350,WTClass="Heavy",OreType="M")
-MAT["Platinum"]=ARMMaterial(Name="Platinum",PR=32,MR=32,WT=47,Buy=700,Sell=350,WTClass="Heavy",OreType="B")
-MAT["Lead"]=ARMMaterial(Name="Lead",PR=54,MR=14,WT=55,Buy=700,Sell=350,WTClass="Heavy",OreType="P")
+MAT["Orichalc"]=ARMMaterial(Name="Orichalc",PR=14,MR=54,WT=50,Buy=700,Sell=360,WTClass="Heavy",OreType="M")
+MAT["Platinum"]=ARMMaterial(Name="Platinum",PR=32,MR=32,WT=47,Buy=700,Sell=360,WTClass="Heavy",OreType="B")
+MAT["Lead"]=ARMMaterial(Name="Lead",PR=54,MR=14,WT=55,Buy=700,Sell=360,WTClass="Heavy",OreType="P")
 
 #Tier IV, Light
 MAT["Crystalite"]=ARMMaterial(Name="Crystalite",PR=29,MR=58,WT=55,Buy=800,Sell=400,WTClass="Light",OreType="M")
 MAT["Orionite"]=ARMMaterial(Name="Orionite",PR=35,MR=35,WT=50,Buy=800,Sell=400,WTClass="Light",OreType="B")
 MAT["Adamantite"]=ARMMaterial(Name="Adamantite",PR=58,MR=29,WT=60,Buy=800,Sell=400,WTClass="Light",OreType="P")
 #Tier IV, Medium
-MAT["Solite"]=ARMMaterial(Name="Solite",PR=21,MR=62,WT=65,Buy=900,Sell=450,WTClass="Medium",OreType="M")
-MAT["Territe"]=ARMMaterial(Name="Territe",PR=37,MR=37,WT=60,Buy=900,Sell=450,WTClass="Medium",OreType="B")
-MAT["Lunalite"]=ARMMaterial(Name="Lunalite",PR=62,MR=21,WT=65,Buy=900,Sell=450,WTClass="Medium",OreType="P")
+MAT["Solite"]=ARMMaterial(Name="Solite",PR=21,MR=62,WT=65,Buy=900,Sell=460,WTClass="Medium",OreType="M")
+MAT["Territe"]=ARMMaterial(Name="Territe",PR=37,MR=37,WT=60,Buy=900,Sell=460,WTClass="Medium",OreType="B")
+MAT["Lunalite"]=ARMMaterial(Name="Lunalite",PR=62,MR=21,WT=65,Buy=900,Sell=460,WTClass="Medium",OreType="P")
 #Tier IV, Heavy
 MAT["Sorcium"]=ARMMaterial(Name="Sorcium",PR=19,MR=75,WT=68,Buy=1000,Sell=500,WTClass="Heavy",OreType="M")
 MAT["Brinium"]=ARMMaterial(Name="Brinium",PR=45,MR=45,WT=65,Buy=1000,Sell=500,WTClass="Heavy",OreType="B")
