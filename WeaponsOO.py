@@ -72,18 +72,18 @@ MAT["Magenium"]=WEPMaterial("Magenium",PD=9,MD=18,AC=12,WT=19,Buy=200,Sell=100)
 MAT["Shardiron"]=WEPMaterial("Shardiron",PD=11,MD=11,AC=15,WT=17,Buy=200,Sell=100)
 MAT["Shardsteel"]=WEPMaterial("Shardsteel",PD=18,MD=9,AC=12,WT=23,Buy=200,Sell=100)
 #Tier II, Medium
-MAT["Cazenium"]=WEPMaterial("Cazenium",PD=8,MD=24,AC=9,WT=26,Buy=300,Sell=150)
-MAT["Iron"]=WEPMaterial("Iron",PD=14,MD=14,AC=12,WT=24,Buy=300,Sell=150)
-MAT["Steel"]=WEPMaterial("Steel",PD=24,MD=8,AC=9,WT=30,Buy=300,Sell=150)
+MAT["Cazenium"]=WEPMaterial("Cazenium",PD=8,MD=24,AC=9,WT=26,Buy=300,Sell=160)
+MAT["Iron"]=WEPMaterial("Iron",PD=14,MD=14,AC=12,WT=24,Buy=300,Sell=160)
+MAT["Steel"]=WEPMaterial("Steel",PD=24,MD=8,AC=9,WT=30,Buy=300,Sell=160)
 #Tier II, Heavy
 MAT["Rozenium"]=WEPMaterial("Rozenium",PD=8,MD=30,AC=3,WT=33,Buy=400,Sell=200)
 MAT["Heviron"]=WEPMaterial("Heviron",PD=18,MD=18,AC=6,WT=31,Buy=400,Sell=200)
 MAT["Hevisteel"]=WEPMaterial("Hevisteel",PD=30,MD=8,AC=3,WT=37,Buy=400,Sell=200)
 
 #Tier III, Light
-MAT["Bismuth"]=WEPMaterial("Bismuth",PD=20,MD=40,AC=15,WT=36,Buy=500,Sell=250)
-MAT["Aluminum"]=WEPMaterial("Aluminum",PD=24,MD=24,AC=20,WT=34,Buy=500,Sell=250)
-MAT["Chrome"]=WEPMaterial("Chrome",PD=40,MD=20,AC=15,WT=38,Buy=500,Sell=250)
+MAT["Bismuth"]=WEPMaterial("Bismuth",PD=20,MD=40,AC=15,WT=36,Buy=500,Sell=260)
+MAT["Aluminum"]=WEPMaterial("Aluminum",PD=24,MD=24,AC=20,WT=34,Buy=500,Sell=260)
+MAT["Chrome"]=WEPMaterial("Chrome",PD=40,MD=20,AC=15,WT=38,Buy=500,Sell=260)
 #Tier III, Medium
 MAT["Silver"]=WEPMaterial("Silver",PD=16,MD=48,AC=12,WT=40,Buy=600,Sell=300)
 MAT["Brass"]=WEPMaterial("Brass",PD=29,MD=29,AC=14,WT=39,Buy=600,Sell=300)
@@ -98,9 +98,9 @@ MAT["Crystalite"]=WEPMaterial("Crystalite",PD=29,MD=58,AC=25,WT=55,Buy=800,Sell=
 MAT["Orionite"]=WEPMaterial("Orionite",PD=35,MD=35,AC=35,WT=50,Buy=800,Sell=400)
 MAT["Adamantite"]=WEPMaterial("Adamantite",PD=58,MD=29,AC=25,WT=60,Buy=800,Sell=400)
 #Tier IV, Medium
-MAT["Solite"]=WEPMaterial("Solite",PD=21,MD=62,AC=9,WT=65,Buy=900,Sell=450)
-MAT["Territe"]=WEPMaterial("Territe",PD=37,MD=37,AC=12,WT=60,Buy=900,Sell=450)
-MAT["Lunite"]=WEPMaterial("Lunalite",PD=62,MD=21,AC=9,WT=65,Buy=900,Sell=450)
+MAT["Solite"]=WEPMaterial("Solite",PD=21,MD=62,AC=9,WT=65,Buy=900,Sell=460)
+MAT["Territe"]=WEPMaterial("Territe",PD=37,MD=37,AC=12,WT=60,Buy=900,Sell=460)
+MAT["Lunite"]=WEPMaterial("Lunalite",PD=62,MD=21,AC=9,WT=65,Buy=900,Sell=460)
 #Tier IV, Heavy
 MAT["Sorcium"]=WEPMaterial("Sorcium",PD=19,MD=75,AC=5,WT=68,Buy=1000,Sell=500)
 MAT["Brinium"]=WEPMaterial("Brinieum",PD=45,MD=45,AC=10,WT=65,Buy=1000,Sell=500)
