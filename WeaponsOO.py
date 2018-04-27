@@ -63,9 +63,9 @@ MAT["Copper"]=WEPMaterial("Copper",PD=3,MD=10,AC=4,WT=10,Buy=120,Sell=60)
 MAT["Bronze"]=WEPMaterial("Bronze",PD=6,MD=6,AC=6,WT=8,Buy=120,Sell=60)
 MAT["Tin"]=WEPMaterial("Tin",PD=10,MD=3,AC=4,WT=12,Buy=120,Sell=60)
 #Tier I, Heavy
-MAT["Gold"]=WEPMaterial("Gold",PD=4,MD=14,AC=0,WT=18,Buy=150,Sell=75)
-MAT["Cobalt"]=WEPMaterial("Cobalt",PD=8,MD=8,AC=2,WT=15,Buy=150,Sell=75)
-MAT["Tungsten"]=WEPMaterial("Tungsten",PD=14,MD=4,AC=0,WT=21,Buy=150,Sell=75)
+MAT["Gold"]=WEPMaterial("Gold",PD=4,MD=14,AC=0,WT=18,Buy=140,Sell=70)
+MAT["Cobalt"]=WEPMaterial("Cobalt",PD=10,MD=10,AC=2,WT=16,Buy=140,Sell=70)
+MAT["Tungsten"]=WEPMaterial("Tungsten",PD=14,MD=4,AC=0,WT=21,Buy=140,Sell=70)
 
 #Tier II, Light
 MAT["Magenium"]=WEPMaterial("Magenium",PD=9,MD=18,AC=12,WT=19,Buy=200,Sell=100)

@@ -48,9 +48,9 @@ MAT["Copper"]=ARMMaterial(Name="Copper",PR=3,MR=10,WT=10,Buy=120,Sell=60,WTClass
 MAT["Bronze"]=ARMMaterial(Name="Bronze",PR=6,MR=6,WT=8,Buy=120,Sell=60,WTClass="Medium",OreType="B")
 MAT["Tin"]=ARMMaterial(Name="Tin",PR=10,MR=3,WT=12,Buy=120,Sell=60,WTClass="Medium",OreType="P")
 #Tier I, Heavy
-MAT["Gold"]=ARMMaterial(Name="Gold",PR=4,MR=14,WT=18,Buy=150,Sell=75,WTClass="Heavy",OreType="M")
-MAT["Cobalt"]=ARMMaterial(Name="Cobalt",PR=8,MR=8,WT=15,Buy=150,Sell=75,WTClass="Heavy",OreType="B")
-MAT["Tungsten"]=ARMMaterial(Name="Tungsten",PR=14,MR=4,WT=21,Buy=150,Sell=75,WTClass="Heavy",OreType="P")
+MAT["Gold"]=ARMMaterial(Name="Gold",PR=4,MR=14,WT=18,Buy=140,Sell=70,WTClass="Heavy",OreType="M")
+MAT["Cobalt"]=ARMMaterial(Name="Cobalt",PR=10,MR=10,WT=16,Buy=140,Sell=70,WTClass="Heavy",OreType="B")
+MAT["Tungsten"]=ARMMaterial(Name="Tungsten",PR=14,MR=4,WT=21,Buy=140,Sell=70,WTClass="Heavy",OreType="P")
 
 #Tier II, Light
 MAT["Magenium"]=ARMMaterial(Name="Magenium",PR=9,MR=18,WT=19,Buy=200,Sell=100,WTClass="Light",OreType="M")
