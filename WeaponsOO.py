@@ -60,11 +60,11 @@ class WEPMaterial(object):
 
 	@property
 	def Buy(self):
-		return self.Price
+		return self.Price * 2
 
 	@property
 	def Sell(self):
-		return self.Price / 2
+		return self.Price
 
 MAT={}
 #Dummy Material
